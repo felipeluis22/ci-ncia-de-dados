@@ -1,1 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 
+:root{
+    --bg-color:#FFF0D1;
+    --primary-color: #795757;
+    --secondary-color: #664343;
+    --tipo-fonte:"Fredoka", sans-serif;
+}
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--tipo-fonte);
+    height: 100vh;
+    margin: 0;
+}
+header{
+    
+}
